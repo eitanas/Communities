@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Eitan files/Dropbox/Dropbox/M.Sc/Shlomo/Communities/myNetworks/main.cpp
+iostream
+-
+networks.h
+/Volumes/Eitan files/Dropbox/Dropbox/M.Sc/Shlomo/Communities/myNetworks/networks.h
+vector
+-
+time.h
+-
+math.h
+-
+fstream
+-
+stdio.h
+-
+stdlib.h
+-
+algorithm
+-
+ostream
+-
+sstream
+-
+numeric
+-
+random
+-
+
+/Volumes/Eitan files/Dropbox/Dropbox/M.Sc/Shlomo/Communities/myNetworks/networks.h
+math.h
+-
+iostream
+-
+vector
+-
+time.h
+-
+stdio.h
+-
+stdlib.h
+-
+string
+-
+stdexcept
+-
+queue
+-
+ctime
+-
+algorithm
+-
+random
+-
+

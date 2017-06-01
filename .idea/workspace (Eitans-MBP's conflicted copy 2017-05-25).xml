@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="myNetworks" targetName="myNetworks" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20fce0a6-0331-4fb6-9b9a-133ab700d88b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="myNetworks.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myNetworks" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#346#459#0" expanded="false" />
+                <element signature="e#808#817#0" expanded="true" />
+                <element signature="e#1073#1082#0" expanded="true" />
+                <element signature="e#1142#1151#0" expanded="true" />
+                <element signature="e#1189#1198#0" expanded="true" />
+                <element signature="e#5861#6334#0" expanded="false" />
+                <element signature="e#6335#6651#0" expanded="false" />
+                <element signature="e#6976#7133#0" expanded="false" />
+                <element signature="e#7134#7697#0" expanded="false" />
+                <element signature="e#7698#7930#0" expanded="false" />
+                <element signature="e#7931#8055#0" expanded="false" />
+                <element signature="e#8057#8198#0" expanded="false" />
+                <element signature="e#8199#8243#0" expanded="false" />
+                <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="networks.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/networks.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="92" column="20" lean-forward="false" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+              <folding>
+                <element signature="e#102#119#0" expanded="true" />
+                <element signature="e#878#2705#1" expanded="false" />
+                <element signature="e#1678#1687#0" expanded="true" />
+                <element signature="e#1733#1742#0" expanded="true" />
+                <element signature="e#3378#3496#0" expanded="false" />
+                <element signature="e#3497#4404#0" expanded="false" />
+                <element signature="e#4405#4519#0" expanded="false" />
+                <element signature="e#4520#4578#0" expanded="false" />
+                <element signature="e#4579#4640#0" expanded="false" />
+                <element signature="e#4641#5900#0" expanded="false" />
+                <element signature="e#5901#6092#0" expanded="false" />
+                <element signature="e#6093#6290#0" expanded="false" />
+                <element signature="e#6291#7405#0" expanded="false" />
+                <element signature="e#10423#10432#0" expanded="true" />
+                <element signature="e#10414#10580#0" expanded="false" />
+                <element signature="e#10581#10675#0" expanded="false" />
+                <element signature="e#10676#11694#0" expanded="false" />
+                <element signature="e#12087#12193#0" expanded="false" />
+                <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>er_ad</find>
+      <find>explored</find>
+      <find>cout</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/networks.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1292" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myNetworks" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myNetworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager" selected="Application.myNetworks">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="myNetworks" TARGET_NAME="myNetworks" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myNetworks" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myNetworks" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myNetworks" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myNetworks" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myNetworks" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myNetworks" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myNetworks" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="myNetworks" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="myNetworks" TARGET_NAME="myNetworks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="myNetworks" RUN_TARGET_NAME="myNetworks">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="myNetworks" TARGET_NAME="myNetworks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="myNetworks" RUN_TARGET_NAME="myNetworks">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.myNetworks" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Build All" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20fce0a6-0331-4fb6-9b9a-133ab700d88b" name="Default" comment="" />
+      <created>1493333244442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493333244442</updated>
+      <workItem from="1493333245968" duration="57058000" />
+      <workItem from="1493676872029" duration="231000" />
+      <workItem from="1493802441538" duration="3463000" />
+      <workItem from="1493830735123" duration="23870000" />
+      <workItem from="1494598707956" duration="4211000" />
+      <workItem from="1494946960010" duration="9893000" />
+      <workItem from="1495146300628" duration="2416000" />
+      <workItem from="1495195088185" duration="919000" />
+      <workItem from="1495207036825" duration="205000" />
+      <workItem from="1495392936047" duration="1477000" />
+      <workItem from="1495444081454" duration="9708000" />
+      <workItem from="1495564689439" duration="5865000" />
+      <workItem from="1495579556441" duration="15259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="163909000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1292" height="981" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18332022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3127109" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25984251" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3318335" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32875264" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24524313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19397363" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/networks.h</url>
+          <line>366</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/networks.h</url>
+          <line>363</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>156</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>159</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="142" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="explored-&gt;*explored" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="89" column="27" lean-forward="false" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="276" column="27" lean-forward="false" selection-start-line="276" selection-start-column="27" selection-end-line="276" selection-end-column="27" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="139" column="34" lean-forward="false" selection-start-line="139" selection-start-column="34" selection-end-line="139" selection-end-column="34" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="89" column="27" lean-forward="false" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="139" column="34" lean-forward="false" selection-start-line="139" selection-start-column="34" selection-end-line="139" selection-end-column="34" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="146" column="28" lean-forward="false" selection-start-line="146" selection-start-column="28" selection-end-line="146" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="81" column="12" lean-forward="false" selection-start-line="81" selection-start-column="12" selection-end-line="81" selection-end-column="12" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="139" column="34" lean-forward="false" selection-start-line="139" selection-start-column="34" selection-end-line="139" selection-end-column="34" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="89" column="27" lean-forward="false" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="27" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="18" lean-forward="false" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks (Eitans-MBP's conflicted copy 2017-05-19).h" />
+    <entry file="file://C:/MinGW/lib/gcc/mingw32/4.9.3/include/c++/ext/new_allocator.h" />
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#346#459#0" expanded="false" />
+            <element signature="e#808#817#0" expanded="true" />
+            <element signature="e#1073#1082#0" expanded="true" />
+            <element signature="e#1142#1151#0" expanded="true" />
+            <element signature="e#1189#1198#0" expanded="true" />
+            <element signature="e#5861#6334#0" expanded="false" />
+            <element signature="e#6335#6651#0" expanded="false" />
+            <element signature="e#6976#7133#0" expanded="false" />
+            <element signature="e#7134#7697#0" expanded="false" />
+            <element signature="e#7698#7930#0" expanded="false" />
+            <element signature="e#7931#8055#0" expanded="false" />
+            <element signature="e#8057#8198#0" expanded="false" />
+            <element signature="e#8199#8243#0" expanded="false" />
+            <marker date="1495643828000" expanded="false" signature="6701:6974" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/networks.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="92" column="20" lean-forward="false" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="20" />
+          <folding>
+            <element signature="e#102#119#0" expanded="true" />
+            <element signature="e#878#2705#1" expanded="false" />
+            <element signature="e#1678#1687#0" expanded="true" />
+            <element signature="e#1733#1742#0" expanded="true" />
+            <element signature="e#3378#3496#0" expanded="false" />
+            <element signature="e#3497#4404#0" expanded="false" />
+            <element signature="e#4405#4519#0" expanded="false" />
+            <element signature="e#4520#4578#0" expanded="false" />
+            <element signature="e#4579#4640#0" expanded="false" />
+            <element signature="e#4641#5900#0" expanded="false" />
+            <element signature="e#5901#6092#0" expanded="false" />
+            <element signature="e#6093#6290#0" expanded="false" />
+            <element signature="e#6291#7405#0" expanded="false" />
+            <element signature="e#10423#10432#0" expanded="true" />
+            <element signature="e#10414#10580#0" expanded="false" />
+            <element signature="e#10581#10675#0" expanded="false" />
+            <element signature="e#10676#11694#0" expanded="false" />
+            <element signature="e#12087#12193#0" expanded="false" />
+            <marker date="1495702841000" expanded="false" signature="11751:12086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
